@@ -51,8 +51,8 @@ body {
   height: 28px;
   border-radius: 4px;
 }
-.title-meta { color: #ff3030; }
-.title-hunt { color: #30ff30; }
+.title-meta { color: #D14A4A; }
+.title-hunt { color: #ABD473; }
 .tabs { display: flex; gap: 4px; }
 .tab {
   background: transparent;
