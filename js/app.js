@@ -253,8 +253,8 @@ function applyFilters() {
   });
 
   renderTable();
-  if (!state.filtered.some(b => b.npcId === state.selectedNpcId)) {
-    state.selectedNpcId = state.filtered[0]?.npcId ?? null;
+  if (state.selectedNpcId != null && !state.filtered.some(b => b.npcId === state.selectedNpcId)) {
+    state.selectedNpcId = null;
   }
   renderDetails();
 }
@@ -368,9 +368,9 @@ function renderDetails() {
   // Bind ability tooltips in detail panel
   bindAbilityTooltips(det);
 
-  // Load 3D model if available
+  // Load 3D model if available (defer to next frame so container has layout dimensions)
   if (beast.displayId && window.loadBeastModel) {
-    window.loadBeastModel(beast.displayId);
+    requestAnimationFrame(() => window.loadBeastModel(beast.displayId));
   }
 }
 
