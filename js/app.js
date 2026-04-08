@@ -171,7 +171,7 @@ async function boot() {
   const hashNpcId = hashMatch ? Number(hashMatch[1]) : null;
   state.selectedNpcId = (hashNpcId && beastsPayload.beasts?.some(b => b.npcId === hashNpcId))
     ? hashNpcId
-    : state.beasts[0]?.npcId ?? null;
+    : null;
 
   // Meta info
   document.getElementById('meta').textContent =
