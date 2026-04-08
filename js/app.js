@@ -368,9 +368,16 @@ function renderDetails() {
   // Bind ability tooltips in detail panel
   bindAbilityTooltips(det);
 
-  // Load 3D model if available (defer to next frame so container has layout dimensions)
-  if (beast.displayId && window.loadBeastModel) {
-    requestAnimationFrame(() => window.loadBeastModel(beast.displayId));
+  // Load 3D model if available (retry until model-viewer module is ready)
+  if (beast.displayId) {
+    const tryLoad = () => {
+      if (window.loadBeastModel) {
+        window.loadBeastModel(beast.displayId);
+      } else {
+        setTimeout(tryLoad, 100);
+      }
+    };
+    requestAnimationFrame(tryLoad);
   }
 }
 
