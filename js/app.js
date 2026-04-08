@@ -81,10 +81,10 @@ function fmtDuration(sec) {
   const h = Math.floor((s % 86400) / 3600);
   const m = Math.floor((s % 3600) / 60);
   const parts = [];
-  if (d) parts.push(`${d}d`);
-  if (h) parts.push(`${h}h`);
-  if (m) parts.push(`${m}m`);
-  if (!parts.length) parts.push(`${s}s`);
+  if (d) parts.push(`${d} day${d > 1 ? 's' : ''}`);
+  if (h) parts.push(`${h} hour${h > 1 ? 's' : ''}`);
+  if (m) parts.push(`${m} min`);
+  if (!parts.length) parts.push(`${s} sec`);
   return parts.join(' ');
 }
 
