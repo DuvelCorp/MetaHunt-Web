@@ -73,6 +73,35 @@ function esc(v) {
     .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
 }
 
+function fmtDuration(sec) {
+  if (sec == null || sec === '') return '—';
+  const s = Number(sec);
+  if (isNaN(s) || s <= 0) return asText(sec);
+  const d = Math.floor(s / 86400);
+  const h = Math.floor((s % 86400) / 3600);
+  const m = Math.floor((s % 3600) / 60);
+  const parts = [];
+  if (d) parts.push(`${d}d`);
+  if (h) parts.push(`${h}h`);
+  if (m) parts.push(`${m}m`);
+  if (!parts.length) parts.push(`${s}s`);
+  return parts.join(' ');
+}
+
+function fmtRespawn(minSec, maxSec) {
+  const a = fmtDuration(minSec);
+  const b = fmtDuration(maxSec);
+  if (a === '—' && b === '—') return '—';
+  return a === b ? a : `${a} – ${b}`;
+}
+
+function fmtDmg(v) {
+  if (v == null || v === '') return '—';
+  const n = Number(v);
+  if (isNaN(n)) return asText(v);
+  return n >= 100 ? Math.round(n).toString() : n.toFixed(1);
+}
+
 function fmtDate(iso) {
   if (!iso) return 'unknown';
   const d = new Date(iso);
@@ -328,11 +357,11 @@ function renderDetails() {
         <div class="k">Level</div><div>${esc(asText(beast.level))}</div>
         <div class="k">Rank</div><div>${esc(asText(beast.rank || 'normal'))}</div>
         <div class="k">Abilities</div><div>${abilityHtml}</div>
-      <div class="k">Respawn</div><div>${esc(asText(beast.respawnMinSeconds))} – ${esc(asText(beast.respawnMaxSeconds))} sec</div>
+      <div class="k">Respawn</div><div>${fmtRespawn(beast.respawnMinSeconds, beast.respawnMaxSeconds)}</div>
       <div class="k">Attack Speed</div><div>${esc(asText(beast.attackSpeed))}</div>
       <div class="k">Health</div><div>${esc(asText(beast.health))}</div>
       <div class="k">Armor</div><div>${esc(asText(beast.armor))}</div>
-      <div class="k">Damage</div><div>${esc(asText(beast.dmgMin))} – ${esc(asText(beast.dmgMax))}</div>
+      <div class="k">Damage</div><div>${fmtDmg(beast.dmgMin)} – ${fmtDmg(beast.dmgMax)}</div>
       <div class="k">Spawns</div><div>${esc(asText(beast.spawnCount))}</div>
     </div>
       <div id="model-viewer-container" class="model-viewer-box"></div>
