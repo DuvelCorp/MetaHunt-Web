@@ -39,7 +39,6 @@ body {
 }
 .topbar h1 {
   font-size: 1.1rem;
-  letter-spacing: 1px;
   text-transform: uppercase;
   flex-shrink: 0;
   display: flex;
