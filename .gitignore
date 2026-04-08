@@ -1,6 +1,9 @@
 # Build tools / pipeline scripts
 .tools/
 
+# Unused assets (extracted but not yet mapped)
+.beasts/
+
 # Python
 __pycache__/
 *.pyc
