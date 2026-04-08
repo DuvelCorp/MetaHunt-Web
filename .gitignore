@@ -1,0 +1,16 @@
+# Build tools / pipeline scripts
+.tools/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db

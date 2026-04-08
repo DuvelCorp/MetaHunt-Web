@@ -1,0 +1,1975 @@
+{
+  "Bite": [
+    {
+      "rank": 1,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 7 to 10 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 1
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 16 to 19 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 8
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 24 to 29 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 16
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 31 to 38 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 24
+    },
+    {
+      "rank": 5,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 40 to 49 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 32
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 49 to 60 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 40
+    },
+    {
+      "rank": 7,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 66 to 81 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 48
+    },
+    {
+      "rank": 8,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 81 to 100 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    },
+    {
+      "rank": 8,
+      "icon": "Ability_Racial_Cannibalize",
+      "description": "Bite the enemy, causing 81 to 100 damage.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    }
+  ],
+  "Bubble Barrier": [
+    {
+      "rank": 0,
+      "icon": "Spell_Frost_FrostNova",
+      "description": "Inflicts Frost damage to nearby enemies.",
+      "cost": "None",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Frost",
+      "trainLevel": 10
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "spell_bubl1",
+      "description": "Envelop yourself in a bubble, absorbing 50 damage. When the bubble breaks or expires it deals 15 to 18 Frost damage to enemies within 10 yards. Lasts 8 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "40 yards (Long Range)",
+      "school": "Physical",
+      "trainLevel": 10
+    },
+    {
+      "rank": 2,
+      "icon": "spell_bubl1",
+      "description": "Envelop yourself in a bubble, absorbing 125 damage. When the bubble breaks or expires it deals 31 to 37 Frost damage to enemies within 10 yards. Lasts 8 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "40 yards (Long Range)",
+      "school": "Physical",
+      "trainLevel": 24
+    },
+    {
+      "rank": 3,
+      "icon": "spell_bubl1",
+      "description": "Envelop yourself in a bubble, absorbing 235 damage. When the bubble breaks or expires it deals 44 to 54 Frost damage to enemies within 10 yards. Lasts 8 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "40 yards (Long Range)",
+      "school": "Physical",
+      "trainLevel": 40
+    },
+    {
+      "rank": 4,
+      "icon": "spell_bubl1",
+      "description": "Envelop yourself in a bubble, absorbing 335 damage. When the bubble breaks or expires it deals 72 to 85 Frost damage to enemies within 10 yards. Lasts 8 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "40 yards (Long Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    },
+    {
+      "rank": 4,
+      "icon": "spell_bubl1",
+      "description": "Envelop yourself in a bubble, absorbing 335 damage. When the bubble breaks or expires it deals 72 to 85 Frost damage to enemies within 10 yards. Lasts 8 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "40 yards (Long Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    }
+  ],
+  "Charge": [
+    {
+      "rank": 0,
+      "icon": "Ability_Warrior_Charge",
+      "description": "Charges an enemy, inflicting normal damage plus 1.",
+      "cost": "None",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 20
+    },
+    {
+      "rank": 1,
+      "icon": "Ability_Hunter_Pet_Boar",
+      "description": "Charges an enemy, immobilizes it for 1 sec, and increases the boar's attack power by 50 and an additional 35% for the next attack.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 1
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Hunter_Pet_Boar",
+      "description": "Charges an enemy, immobilizes it for 1 sec, and increases the boar's attack power by 100 and an additional 35% for the next attack.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 12
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Hunter_Pet_Boar",
+      "description": "Charges an enemy, immobilizes it for 1 sec, and increases the boar's attack power by 180 and an additional 35% for the next attack.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 24
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Hunter_Pet_Boar",
+      "description": "Charges an enemy, immobilizes it for 1 sec, and increases the boar's attack power by 250 and an additional 35% for the next attack.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 36
+    },
+    {
+      "rank": 5,
+      "icon": "Ability_Hunter_Pet_Boar",
+      "description": "Charges an enemy, immobilizes it for 1 sec, and increases the boar's attack power by 390 and an additional 35% for the next attack.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 48
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Hunter_Pet_Boar",
+      "description": "Charges an enemy, immobilizes it for 1 sec, and increases the boar's attack power by 550 and an additional 35% for the next attack.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 60
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Hunter_Pet_Boar",
+      "description": "Charges an enemy, immobilizes it for 1 sec, and increases the boar's attack power by 550 and an additional 35% for the next attack.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "8-25 yards (Charge)",
+      "school": "Physical",
+      "trainLevel": 60
+    }
+  ],
+  "Claw": [
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 4 to 7 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 1
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 8 to 13 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 8
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 12 to 17 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 16
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 16 to 23 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 24
+    },
+    {
+      "rank": 4,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 4,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 5,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 21 to 30 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 32
+    },
+    {
+      "rank": 5,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 5,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 26 to 37 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 40
+    },
+    {
+      "rank": 7,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 35 to 50 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 48
+    },
+    {
+      "rank": 8,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 43 to 60 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    },
+    {
+      "rank": 8,
+      "icon": "Ability_Druid_Rake",
+      "description": "Claw the enemy, causing 43 to 60 damage.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    }
+  ],
+  "Cower": [
+    {
+      "rank": 1,
+      "icon": "Ability_Druid_Cower",
+      "description": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you.",
+      "cost": "15 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 5
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Druid_Cower",
+      "description": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you.",
+      "cost": "15 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 15
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Druid_Cower",
+      "description": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you.",
+      "cost": "15 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 25
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Druid_Cower",
+      "description": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you.",
+      "cost": "15 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 35
+    },
+    {
+      "rank": 5,
+      "icon": "Ability_Druid_Cower",
+      "description": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you.",
+      "cost": "15 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 45
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Druid_Cower",
+      "description": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you.",
+      "cost": "15 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 55
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Druid_Cower",
+      "description": "Cower, causing no damage but lowering your threat, making the enemy less likely to attack you.",
+      "cost": "15 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 55
+    }
+  ],
+  "Dash": [
+    {
+      "rank": 1,
+      "icon": "Ability_Druid_Dash",
+      "description": "Increases movement speed by 50% for 15 sec. Does not break prowling.",
+      "cost": "None",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 26
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Druid_Dash",
+      "description": "Increases movement speed by 60% for 15 sec. Does not break prowling.",
+      "cost": "None",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 46
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Druid_Dash",
+      "description": "Increases movement speed by 80% for 15 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 50
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Druid_Dash",
+      "description": "Increases movement speed by 80% for 15 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 50
+    }
+  ],
+  "Death Roll": [
+    {
+      "rank": 1,
+      "icon": "Ability_hunter_pet_crocolisk",
+      "description": "Initiates a death roll on the target, reducing movement speed by 80% and dealing 10 damage every 0.5 sec. for 3 sec. Deals 25% more damage to targets below 35% health.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "30 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 10
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_hunter_pet_crocolisk",
+      "description": "Initiates a death roll on the target, reducing movement speed by 80% and dealing 20 damage every 0.5 sec. for 3 sec. Deals 25% more damage to targets below 35% health.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "30 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 20
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_hunter_pet_crocolisk",
+      "description": "Initiates a death roll on the target, reducing movement speed by 80% and dealing 30 damage every 0.5 sec. for 3 sec. Deals 25% more damage to targets below 35% health.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "30 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 30
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_hunter_pet_crocolisk",
+      "description": "Initiates a death roll on the target, reducing movement speed by 80% and dealing 40 damage every 0.5 sec. for 3 sec. Deals 25% more damage to targets below 35% health.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "30 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 40
+    },
+    {
+      "rank": 5,
+      "icon": "Ability_hunter_pet_crocolisk",
+      "description": "Initiates a death roll on the target, reducing movement speed by 80% and dealing 50 damage every 0.5 sec. for 3 sec. Deals 25% more damage to targets below 35% health.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "30 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 50
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_hunter_pet_crocolisk",
+      "description": "Initiates a death roll on the target, reducing movement speed by 80% and dealing 60 damage every 0.5 sec. for 3 sec. Deals 25% more damage to targets below 35% health.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "30 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 60
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_hunter_pet_crocolisk",
+      "description": "Initiates a death roll on the target, reducing movement speed by 80% and dealing 60 damage every 0.5 sec. for 3 sec. Deals 25% more damage to targets below 35% health.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "30 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 60
+    }
+  ],
+  "Dive": [
+    {
+      "rank": 1,
+      "icon": "Spell_Shadow_BurningSpirit",
+      "description": "Increases movement speed by 40% for 15 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 30
+    },
+    {
+      "rank": 2,
+      "icon": "Spell_Shadow_BurningSpirit",
+      "description": "Increases movement speed by 60% for 15 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 40
+    },
+    {
+      "rank": 3,
+      "icon": "Spell_Shadow_BurningSpirit",
+      "description": "Increases movement speed by 80% for 15 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 50
+    },
+    {
+      "rank": 3,
+      "icon": "Spell_Shadow_BurningSpirit",
+      "description": "Increases movement speed by 80% for 15 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 50
+    }
+  ],
+  "Furious Howl": [
+    {
+      "rank": 1,
+      "icon": "Ability_Hunter_Pet_Wolf",
+      "description": "Party members within 40 yards receive an extra 9 to 12 damage to their next Physical attack. The extra damage scales with attack power. Lasts 10 sec.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 10
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Hunter_Pet_Wolf",
+      "description": "Party members within 40 yards receive an extra 18 to 23 damage to their next Physical attack. The extra damage scales with attack power. Lasts 10 sec.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 24
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Hunter_Pet_Wolf",
+      "description": "Party members within 40 yards receive an extra 28 to 35 damage to their next Physical attack. The extra damage scales with attack power. Lasts 10 sec.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 40
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Hunter_Pet_Wolf",
+      "description": "Party members within 40 yards receive an extra 45 to 58 damage to their next Physical attack. The extra damage scales with attack power. Lasts 10 sec.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "30 yards (Medium Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Hunter_Pet_Wolf",
+      "description": "Party members within 40 yards receive an extra 45 to 58 damage to their next Physical attack. The extra damage scales with attack power. Lasts 10 sec.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "30 yards (Medium Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    }
+  ],
+  "Grace": [
+    {
+      "rank": 1,
+      "icon": "Spell_Nature_Invisibilty",
+      "description": "Increases chance to dodge by 30% for 12 sec.",
+      "cost": "10 mana",
+      "castTime": "Instant",
+      "cooldown": "60 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 10
+    },
+    {
+      "rank": 1,
+      "icon": "Spell_Nature_Invisibilty",
+      "description": "Increases chance to dodge by 30% for 12 sec.",
+      "cost": "10 mana",
+      "castTime": "Instant",
+      "cooldown": "60 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 10
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Lightning Breath": [
+    {
+      "rank": 0,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning at an enemy, inflicting Nature damage.",
+      "cost": "None",
+      "castTime": "2 seconds",
+      "cooldown": "n/a",
+      "range": "30 yards (Medium Range)",
+      "school": "Nature",
+      "trainLevel": 20
+    },
+    {
+      "rank": 1,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning, instantly dealing 11 to 14 Nature damage to a single target.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Nature",
+      "trainLevel": 1
+    },
+    {
+      "rank": 2,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning, instantly dealing 21 to 24 Nature damage to a single target.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Nature",
+      "trainLevel": 12
+    },
+    {
+      "rank": 3,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning, instantly dealing 36 to 41 Nature damage to a single target.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Nature",
+      "trainLevel": 24
+    },
+    {
+      "rank": 4,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning, instantly dealing 51 to 60 Nature damage to a single target.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Nature",
+      "trainLevel": 36
+    },
+    {
+      "rank": 5,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning, instantly dealing 78 to 91 Nature damage to a single target.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Nature",
+      "trainLevel": 48
+    },
+    {
+      "rank": 6,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning, instantly dealing 99 to 114 Nature damage to a single target.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Nature",
+      "trainLevel": 60
+    },
+    {
+      "rank": 6,
+      "icon": "Spell_Nature_Lightning",
+      "description": "Breathes lightning, instantly dealing 99 to 114 Nature damage to a single target.",
+      "cost": "50 mana",
+      "castTime": "Channeled",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Nature",
+      "trainLevel": 60
+    }
+  ],
+  "Packleader": [
+    {
+      "rank": 0,
+      "icon": "Ability_hunter_pet_hyena",
+      "description": "Let out a cackle, calling in a Pack Ally to assist you for 20 sec. The Pack Ally also follows the commands given to your pet and does not generate threat.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "90 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 20
+    },
+    {
+      "rank": 0,
+      "icon": "Ability_hunter_pet_hyena",
+      "description": "Let out a cackle, calling in a Pack Ally to assist you for 20 sec. The Pack Ally also follows the commands given to your pet and does not generate threat.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "90 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 20
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Poison Spit": [
+    {
+      "rank": 1,
+      "icon": "Spell_Nature_CorrosiveBreath",
+      "description": "Spits poison at an enemy, dealing 32 Nature damage over 8 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "8 seconds",
+      "range": "30 yards (Medium Range)",
+      "school": "Nature",
+      "trainLevel": 15
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "Spell_Nature_CorrosiveBreath",
+      "description": "Spits poison at an enemy, dealing 100 Nature damage over 8 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "8 seconds",
+      "range": "30 yards (Medium Range)",
+      "school": "Nature",
+      "trainLevel": 45
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "Spell_Nature_CorrosiveBreath",
+      "description": "Spits poison at an enemy, dealing 140 Nature damage over 8 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "8 seconds",
+      "range": "30 yards (Medium Range)",
+      "school": "Nature",
+      "trainLevel": 60
+    },
+    {
+      "rank": 3,
+      "icon": "Spell_Nature_CorrosiveBreath",
+      "description": "Spits poison at an enemy, dealing 140 Nature damage over 8 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "8 seconds",
+      "range": "30 yards (Medium Range)",
+      "school": "Nature",
+      "trainLevel": 60
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Prowl": [
+    {
+      "rank": 1,
+      "icon": "Ability_Druid_SupriseAttack",
+      "description": "Puts your pet in stealth mode, but slows its movement speed by 50%. The first attack from stealth receives a 20% bonus to damage. Lasts until cancelled.",
+      "cost": "40 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 30
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Druid_SupriseAttack",
+      "description": "Puts your pet in stealth mode, but slows its movement speed by 45%. The first attack from stealth receives a 35% bonus to damage. Lasts until cancelled.",
+      "cost": "40 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 40
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Druid_SupriseAttack",
+      "description": "Puts your pet in stealth mode, but slows its movement speed by 40%. The first attack from stealth receives a 50% bonus to damage. Lasts until cancelled.",
+      "cost": "40 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 50
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Druid_SupriseAttack",
+      "description": "Puts your pet in stealth mode, but slows its movement speed by 40%. The first attack from stealth receives a 50% bonus to damage. Lasts until cancelled.",
+      "cost": "40 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 50
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Roar of Fortitude": [
+    {
+      "rank": 0,
+      "icon": "Ability_Druid_ChallangingRoar",
+      "description": "Let out a fortifying roar, reducing damage taken by 8% and increasing all damage dealt by 3% for your party members within 30 yards for 12 sec.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "120 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 36
+    },
+    {
+      "rank": 0,
+      "icon": "Ability_Druid_ChallangingRoar",
+      "description": "Let out a fortifying roar, reducing damage taken by 8% and increasing all damage dealt by 3% for your party members within 30 yards for 12 sec.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "120 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 36
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Savage Rend": [
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "Ability_Gouge",
+      "description": "Slashes the enemy with the raptor's talons for 6 damage, and causes the target to bleed for 2 damage every 5 sec for 15 sec.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 1
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Druid_Disembowel",
+      "description": "Slash at the target with your talons, dealing 5 to 9 damage and causing bleeding for 8 damage over 4 sec. Critically striking with this ability increases its bleed duration by 1 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "10 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 12
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Druid_Disembowel",
+      "description": "Slash at the target with your talons, dealing 8 to 13 damage and causing bleeding for 16 damage over 4 sec. Critically striking with this ability increases its bleed duration by 1 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "10 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 24
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Druid_Disembowel",
+      "description": "Slash at the target with your talons, dealing 13 to 19 damage and causing bleeding for 28 damage over 4 sec. Critically striking with this ability increases its bleed duration by 1 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "10 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 36
+    },
+    {
+      "rank": 4,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 5,
+      "icon": "Ability_Druid_Disembowel",
+      "description": "Slash at the target with your talons, dealing 19 to 26 damage and causing bleeding for 44 damage over 4 sec. Critically striking with this ability increases its bleed duration by 1 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "10 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 48
+    },
+    {
+      "rank": 5,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Druid_Disembowel",
+      "description": "Slash at the target with your talons, dealing 27 to 37 damage and causing bleeding for 64 damage over 4 sec. Critically striking with this ability increases its bleed duration by 1 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "10 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 60
+    },
+    {
+      "rank": 6,
+      "icon": "Ability_Druid_Disembowel",
+      "description": "Slash at the target with your talons, dealing 27 to 37 damage and causing bleeding for 64 damage over 4 sec. Critically striking with this ability increases its bleed duration by 1 sec.",
+      "cost": "35 mana",
+      "castTime": "Instant",
+      "cooldown": "10 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 60
+    }
+  ],
+  "Scorpid Poison": [
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "Ability_PoisonSting",
+      "description": "Inflicts 12.004801920768 Nature damage over 10 sec. Effect can stack up to 5 times on a single target.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Nature",
+      "trainLevel": 8
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_PoisonSting",
+      "description": "Inflicts 18.007202881152 Nature damage over 10 sec. Effect can stack up to 5 times on a single target.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Nature",
+      "trainLevel": 24
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_PoisonSting",
+      "description": "Inflicts 36.014405762305 Nature damage over 10 sec. Effect can stack up to 5 times on a single target.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Nature",
+      "trainLevel": 40
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_PoisonSting",
+      "description": "Inflicts 48.019207683073 Nature damage over 10 sec. Effect can stack up to 5 times on a single target.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Nature",
+      "trainLevel": 56
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_PoisonSting",
+      "description": "Inflicts 48.019207683073 Nature damage over 10 sec. Effect can stack up to 5 times on a single target.",
+      "cost": "25 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Nature",
+      "trainLevel": 56
+    }
+  ],
+  "Screech": [
+    {
+      "rank": 1,
+      "icon": "Ability_Hunter_Pet_Bat",
+      "description": "Blasts a single enemy for 7 to 10 damage and lowers the melee attack power of all enemies in melee range by 25. Damage scales with attack power. Effect lasts 4 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "5 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 8
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Hunter_Pet_Bat",
+      "description": "Blasts a single enemy for 12 to 17 damage and lowers the melee attack power of all enemies in melee range by 50. Damage scales with attack power. Effect lasts 4 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "5 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 24
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Hunter_Pet_Bat",
+      "description": "Blasts a single enemy for 19 to 26 damage and lowers the melee attack power of all enemies in melee range by 75. Damage scales with attack power. Effect lasts 4 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "5 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 48
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Hunter_Pet_Bat",
+      "description": "Blasts a single enemy for 26 to 47 damage and lowers the melee attack power of all enemies in melee range by 100. Damage scales with attack power. Effect lasts 4 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "5 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Hunter_Pet_Bat",
+      "description": "Blasts a single enemy for 26 to 47 damage and lowers the melee attack power of all enemies in melee range by 100. Damage scales with attack power. Effect lasts 4 sec.",
+      "cost": "20 mana",
+      "castTime": "Instant",
+      "cooldown": "5 seconds",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 56
+    }
+  ],
+  "Shell Shield": [
+    {
+      "rank": 1,
+      "icon": "Ability_Hunter_Pet_Turtle",
+      "description": "Reduces all damage your pet takes by 50%, but increases the time between your pet's attacks by 35%. Lasts 12 sec.",
+      "cost": "10 mana",
+      "castTime": "Instant",
+      "cooldown": "60 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 20
+    },
+    {
+      "rank": 1,
+      "icon": "Ability_Hunter_Pet_Turtle",
+      "description": "Reduces all damage your pet takes by 50%, but increases the time between your pet's attacks by 35%. Lasts 12 sec.",
+      "cost": "10 mana",
+      "castTime": "Instant",
+      "cooldown": "60 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 20
+    }
+  ],
+  "Strider Presence": [
+    {
+      "rank": 0,
+      "icon": "Spell_Holy_Dizzy",
+      "description": "Party members within 50 yards of the Tallstrider continue 10% of their Mana regeneration and 20% of their Health regeneration while in combat. Lasts until cancelled.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 10
+    },
+    {
+      "rank": 0,
+      "icon": "Spell_Holy_Dizzy",
+      "description": "Party members within 50 yards of the Tallstrider continue 10% of their Mana regeneration and 20% of their Health regeneration while in combat. Lasts until cancelled.",
+      "cost": "50 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "0 yards (Self Only)",
+      "school": "Physical",
+      "trainLevel": 10
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Thunderstomp": [
+    {
+      "rank": 1,
+      "icon": "Ability_Hunter_Pet_Gorilla",
+      "description": "Shakes the ground with thundering force, doing 67 to 78 Nature damage to all enemies within 8 yards. Causes a moderate amount of threat.",
+      "cost": "60 mana",
+      "castTime": "Instant",
+      "cooldown": "40 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Nature",
+      "trainLevel": 30
+    },
+    {
+      "rank": 2,
+      "icon": "Ability_Hunter_Pet_Gorilla",
+      "description": "Shakes the ground with thundering force, doing 87 to 100 Nature damage to all enemies within 8 yards. Causes a moderate amount of threat.",
+      "cost": "60 mana",
+      "castTime": "Instant",
+      "cooldown": "40 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Nature",
+      "trainLevel": 40
+    },
+    {
+      "rank": 3,
+      "icon": "Ability_Hunter_Pet_Gorilla",
+      "description": "Shakes the ground with thundering force, doing 115 to 134 Nature damage to all enemies within 8 yards. Causes a moderate amount of threat.",
+      "cost": "60 mana",
+      "castTime": "Instant",
+      "cooldown": "40 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Nature",
+      "trainLevel": 50
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Hunter_Pet_Gorilla",
+      "description": "Shakes the ground with thundering force, doing 153 to 179 Nature damage to all enemies within 8 yards. Causes a moderate amount of threat.",
+      "cost": "60 mana",
+      "castTime": "Instant",
+      "cooldown": "40 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Nature",
+      "trainLevel": 56
+    },
+    {
+      "rank": 4,
+      "icon": "Ability_Hunter_Pet_Gorilla",
+      "description": "Shakes the ground with thundering force, doing 153 to 179 Nature damage to all enemies within 8 yards. Causes a moderate amount of threat.",
+      "cost": "60 mana",
+      "castTime": "Instant",
+      "cooldown": "40 seconds",
+      "range": "0 yards (Self Only)",
+      "school": "Nature",
+      "trainLevel": 56
+    },
+    {
+      "rank": 4,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Web": [
+    {
+      "rank": 0,
+      "icon": "Ability_Ensnare",
+      "description": "Encases the target in sticky webs rendering them unable to move for 8 sec.",
+      "cost": "None",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Physical",
+      "trainLevel": 22
+    },
+    {
+      "rank": 0,
+      "icon": "Ability_Ensnare",
+      "description": "Encases the target in sticky webs rendering them unable to move for 8 sec.",
+      "cost": "None",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "20 yards (Short Range)",
+      "school": "Physical",
+      "trainLevel": 22
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 0,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 1,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 2,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    },
+    {
+      "rank": 3,
+      "icon": "",
+      "description": "",
+      "cost": "",
+      "castTime": "",
+      "cooldown": "",
+      "range": "",
+      "school": "",
+      "trainLevel": null
+    }
+  ],
+  "Pollen Burst": [
+    {
+      "rank": 0,
+      "icon": "pollen_burst_2",
+      "description": "Heal party members within 30 yards for 308 to 338 and reduce the attack speed of targets within 10 yards by 20% for 8 sec.",
+      "cost": "40 Focus",
+      "castTime": "Instant",
+      "cooldown": "30 seconds",
+      "range": "",
+      "school": "Nature",
+      "trainLevel": 1
+    },
+    {
+      "rank": 0,
+      "icon": "pollen_burst_2",
+      "description": "Heal party members within 30 yards for 308 to 338 and reduce the attack speed of targets within 10 yards by 20% for 8 sec.",
+      "cost": "40 Focus",
+      "castTime": "Instant",
+      "cooldown": "30 seconds",
+      "range": "",
+      "school": "Nature",
+      "trainLevel": 1
+    }
+  ],
+  "Growl": [
+    {
+      "rank": 1,
+      "icon": "Ability_Physical_Taunt",
+      "description": "Taunt the target, increasing the likelihood the creature will focus attacks on you.",
+      "cost": "10 mana",
+      "castTime": "Instant",
+      "cooldown": "n/a",
+      "range": "5 yards (Combat Range)",
+      "school": "Physical",
+      "trainLevel": 1
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "Bats": {
+    "icon": "Ability_Hunter_Pet_Bat",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Dive",
+      "Growl",
+      "Screech"
+    ],
+    "food": [
+      "fruit",
+      "fungus"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.0,
+      "damage": 1.07
+    }
+  },
+  "Bears": {
+    "icon": "Ability_Hunter_Pet_Bear",
+    "abilities": [
+      "Bite",
+      "Claw",
+      "Cower",
+      "Growl",
+      "Roar of Fortitude"
+    ],
+    "food": [
+      "meat",
+      "fish",
+      "bread",
+      "cheese",
+      "fruit",
+      "fungus",
+      "raw meat",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 1.08,
+      "armor": 1.05,
+      "damage": 0.91
+    }
+  },
+  "Boars": {
+    "icon": "Ability_Hunter_Pet_Boar",
+    "abilities": [
+      "Bite",
+      "Charge",
+      "Cower",
+      "Dash",
+      "Growl"
+    ],
+    "food": [
+      "meat",
+      "fish",
+      "bread",
+      "cheese",
+      "fruit",
+      "fungus",
+      "raw meat",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 1.04,
+      "armor": 1.09,
+      "damage": 0.9
+    }
+  },
+  "Carrion Birds": {
+    "icon": "Ability_Hunter_Pet_Vulture",
+    "abilities": [
+      "Bite",
+      "Claw",
+      "Cower",
+      "Dive",
+      "Growl",
+      "Screech"
+    ],
+    "food": [
+      "meat",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.05,
+      "damage": 1.0
+    }
+  },
+  "Cats": {
+    "icon": "Ability_Hunter_Pet_Cat",
+    "abilities": [
+      "Bite",
+      "Claw",
+      "Cower",
+      "Dash",
+      "Growl",
+      "Prowl"
+    ],
+    "food": [
+      "meat",
+      "fish",
+      "raw meat",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 0.98,
+      "armor": 1.0,
+      "damage": 1.1
+    }
+  },
+  "Crabs": {
+    "icon": "Ability_Hunter_Pet_Crab",
+    "abilities": [
+      "Bubble Barrier",
+      "Claw",
+      "Cower",
+      "Growl"
+    ],
+    "food": [
+      "fruit",
+      "fish",
+      "fungus",
+      "bread",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 0.96,
+      "armor": 1.13,
+      "damage": 0.95
+    }
+  },
+  "Crocolisks": {
+    "icon": "Ability_Hunter_Pet_Crocolisk",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Death Roll",
+      "Growl"
+    ],
+    "food": [
+      "meat",
+      "fish",
+      "raw meat",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 0.95,
+      "armor": 1.1,
+      "damage": 1.0
+    }
+  },
+  "Foxes": {
+    "icon": "ability_hunter_aspectofthefox",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Dash",
+      "Grace",
+      "Growl"
+    ],
+    "food": [
+      "meat",
+      "fruit",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.0,
+      "damage": 1.07
+    }
+  },
+  "Gorillas": {
+    "icon": "Ability_Hunter_Pet_Gorilla",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Growl",
+      "Thunderstomp"
+    ],
+    "food": [
+      "fruit",
+      "fungus"
+    ],
+    "stats": {
+      "health": 1.04,
+      "armor": 1.0,
+      "damage": 1.02
+    }
+  },
+  "Hyenas": {
+    "icon": "Ability_Hunter_Pet_Hyena",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Dash",
+      "Growl",
+      "Packleader"
+    ],
+    "food": [
+      "meat",
+      "fruit",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.05,
+      "damage": 1.0
+    }
+  },
+  "Owls": {
+    "icon": "Ability_Hunter_Pet_Owl",
+    "abilities": [
+      "Claw",
+      "Cower",
+      "Dive",
+      "Growl",
+      "Screech"
+    ],
+    "food": [
+      "meat",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.0,
+      "damage": 1.07
+    }
+  },
+  "Raptors": {
+    "icon": "Ability_Hunter_Pet_Raptor",
+    "abilities": [
+      "Bite",
+      "Claw",
+      "Cower",
+      "Dash",
+      "Growl",
+      "Savage Rend"
+    ],
+    "food": [
+      "meat",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 0.95,
+      "armor": 1.03,
+      "damage": 1.1
+    }
+  },
+  "Scorpids": {
+    "icon": "Ability_Hunter_Pet_Scorpid",
+    "abilities": [
+      "Claw",
+      "Cower",
+      "Growl",
+      "Scorpid Poison"
+    ],
+    "food": [
+      "meat",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.1,
+      "damage": 0.94
+    }
+  },
+  "Serpents": {
+    "icon": "Ability_Hunter_Pet_Serpent1",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Growl",
+      "Poison Spit"
+    ],
+    "food": [
+      "meat",
+      "fish",
+      "raw meat",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 1.03,
+      "armor": 1.03,
+      "damage": 1.135
+    }
+  },
+  "Spiders": {
+    "icon": "Ability_Hunter_Pet_Spider",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Growl",
+      "Web"
+    ],
+    "food": [
+      "meat",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.0,
+      "damage": 1.07
+    }
+  },
+  "Tallstriders": {
+    "icon": "Ability_Hunter_Pet_TallStrider",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Dash",
+      "Growl",
+      "Strider Presence"
+    ],
+    "food": [
+      "fruit",
+      "fungus",
+      "bread"
+    ],
+    "stats": {
+      "health": 1.05,
+      "armor": 1.0,
+      "damage": 1.0
+    }
+  },
+  "Turtles": {
+    "icon": "Ability_Hunter_Pet_Turtle",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Growl",
+      "Shell Shield"
+    ],
+    "food": [
+      "fruit",
+      "fish",
+      "fungus",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.13,
+      "damage": 0.9
+    }
+  },
+  "Wind Serpents": {
+    "icon": "Ability_Hunter_Pet_WindSerpent",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Dive",
+      "Growl",
+      "Lightning Breath"
+    ],
+    "food": [
+      "fish",
+      "cheese",
+      "bread",
+      "raw fish"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.0,
+      "damage": 1.07
+    }
+  },
+  "Wolves": {
+    "icon": "Ability_Hunter_Pet_Wolf",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Dash",
+      "Furious Howl",
+      "Growl"
+    ],
+    "food": [
+      "meat",
+      "raw meat"
+    ],
+    "stats": {
+      "health": 1.0,
+      "armor": 1.05,
+      "damage": 1.0
+    }
+  },
+  "Moths": {
+    "icon": "Ability_Hunter_Pet_Moth",
+    "abilities": [
+      "Bite",
+      "Cower",
+      "Growl",
+      "Pollen Burst"
+    ],
+    "food": [
+      "fruit",
+      "fungus"
+    ],
+    "stats": {}
+  }
+}

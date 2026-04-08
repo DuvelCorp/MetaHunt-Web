@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MetaHunt — Beast &amp; Map Browser</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="topbar">
+    <h1>MetaHunt</h1>
+    <nav class="tabs">
+      <button class="tab active" data-tab="browser">Beast Browser</button>
+      <button class="tab" data-tab="families">Pet Families</button>
+      <button class="tab" data-tab="map">Zone Maps</button>
+    </nav>
+    <div id="meta" class="meta"></div>
+  </header>
+
+  <!-- ════════ TAB 1: Beast Browser ════════ -->
+  <div id="tab-browser" class="tab-content active">
+
+    <section class="controls">
+      <input id="searchInput" type="search" placeholder="Search name, family, ability, zone…" autocomplete="off">
+      <select id="familyFilter"><option value="">All families</option></select>
+      <select id="rankFilter">
+        <option value="">All types</option>
+        <option value="normal">normal</option>
+        <option value="rare">rare</option>
+        <option value="elite">elite</option>
+        <option value="rareelite">rareelite</option>
+        <option value="worldboss">worldboss</option>
+      </select>
+      <input id="levelMin" type="number" min="1" max="63" placeholder="Min lvl">
+      <input id="levelMax" type="number" min="1" max="63" placeholder="Max lvl">
+      <button id="resetFilters" type="button">Reset</button>
+    </section>
+
+    <main class="browser-layout">
+      <section class="panel table-panel">
+        <div class="panel-header">
+          <span class="panel-title">Beasts</span>
+          <span id="resultCount" class="result-count"></span>
+        </div>
+        <div class="table-wrap">
+          <table id="beastsTable">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Family</th>
+                <th>Level</th>
+                <th>Rank</th>
+                <th>Abilities</th>
+                <th>Spawns</th>
+                <th>Zones</th>
+              </tr>
+            </thead>
+            <tbody id="beastsTbody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel details-panel">
+        <div class="panel-header"><span class="panel-title">Selected Beast</span></div>
+        <div id="details">Select a beast to inspect.</div>
+      </section>
+    </main>
+  </div>
+
+  <!-- ════════ TAB 2: Pet Families ════════ -->
+  <div id="tab-families" class="tab-content">
+    <main class="families-layout">
+      <section class="panel table-panel">
+        <div class="panel-header">
+          <span class="panel-title">Pet Families</span>
+          <span id="familyCount" class="result-count"></span>
+          <label class="stat-toggle"><input type="checkbox" id="statPercent"> Show modifiers as %</label>
+        </div>
+        <div class="table-wrap">
+          <table id="familiesTable">
+            <thead>
+              <tr>
+                <th>Family</th>
+                <th>Beasts</th>
+                <th>Coords</th>
+                <th>Abilities</th>
+                <th>Diet</th>
+                <th>HP</th>
+                <th>Dmg</th>
+                <th>Arm</th>
+              </tr>
+            </thead>
+            <tbody id="familiesTbody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- ════════ TAB 3: Zone Map Viewer ════════ -->
+  <div id="tab-map" class="tab-content">
+
+    <div class="map-layout">
+      <nav id="sidebar">
+        <input id="zoneSearch" type="text" placeholder="Search zone…" autocomplete="off">
+        <div id="zone-list"></div>
+      </nav>
+
+      <div id="map-area">
+        <div id="map-title"></div>
+
+        <div id="placeholder">← Select a zone</div>
+
+        <div id="map-container" style="display:none; position:relative;">
+          <img id="map-img" alt="Zone map">
+          <svg id="map-svg"></svg>
+          <div id="legend"></div>
+        </div>
+      </div>
+
+      <aside id="map-details-panel" class="panel details-panel">
+        <div class="panel-header"><span class="panel-title">Selected Beast</span></div>
+        <div id="map-beast-details">Click a beast on the map.</div>
+      </aside>
+    </div>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <footer class="legal-footer">
+    <p>MetaHunt is an independent, community-made fan project and is not affiliated with, endorsed by, or associated with Blizzard Entertainment, Inc., Turtle WoW, or any of their subsidiaries or affiliates.</p>
+    <p>World of Warcraft&reg;, Warcraft&reg;, and all related names, logos, imagery, and game assets are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the United States and/or other countries. All in-game artwork, icons, 3D models, and map imagery displayed on this site remain the intellectual property of their respective owners.</p>
+    <p>All data presented herein has been derived from publicly available community resources and client-side game files for informational and educational purposes only. No proprietary server-side code or confidential information is used or distributed. This project generates no revenue and is provided as-is for the benefit of the player community.</p>
+    <p>&copy; 2026 MetaHunt Contributors. This site is provided under fair use for commentary, research, and educational purposes.</p>
+  </footer>
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.min.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+    }
+  }
+  </script>
+  <script src="js/app.js"></script>
+  <script type="module" src="js/model-viewer.js"></script>
+</body>
+</html>
