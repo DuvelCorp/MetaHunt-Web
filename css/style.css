@@ -40,10 +40,19 @@ body {
 .topbar h1 {
   font-size: 1.1rem;
   letter-spacing: 1px;
-  color: var(--text-gold);
   text-transform: uppercase;
   flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
+.title-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
+}
+.title-meta { color: #ff3030; }
+.title-hunt { color: #30ff30; }
 .tabs { display: flex; gap: 4px; }
 .tab {
   background: transparent;
